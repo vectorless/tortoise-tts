@@ -9,7 +9,7 @@ unidecode
 scipy
 librosa==0.9.1
 ffmpeg
-numpy==1.20.3
+numpy==1.24.3
 numba
 torchaudio
 threadpoolctl
